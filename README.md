@@ -10,4 +10,4 @@ Tensor Flow course offered by Coursera and deeplearning.ai. Taught by Laurence M
 
 [Course 3 : Natural Language Processing in TensorFlow Certificate](https://github.com/MBadriNarayanan/TensorFlow/blob/master/Course%203%20Certificate.pdf)
 
-[Course 4 : Sequences, Time Series and Prediction](https://github.com/MBadriNarayanan/TensorFlow/blob/master/Course%204%20Certificate.pdf)
+[Course 4 : Sequences, Time Series and Prediction Certificate](https://github.com/MBadriNarayanan/TensorFlow/blob/master/Course%204%20Certificate.pdf)
