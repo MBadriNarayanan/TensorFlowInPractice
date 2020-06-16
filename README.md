@@ -1,6 +1,6 @@
 # TensorFlow
 
-Tensor Flow course offered by Coursera and deeplearning.ai. Taught by Laurence Moroney.
+Tensor Flow In Practice Specialization (4 Courses) course offered by Coursera and deeplearning.ai. Taught by Laurence Moroney.
 
 [Specialization Certificate](https://github.com/MBadriNarayanan/TensorFlow/blob/master/Course%20Specialization%20Certificate.pdf)
 
